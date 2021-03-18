@@ -32,8 +32,9 @@ java minimumBase.java
 ```
 - The program will ask for number of houses. 
 - The program will ask for location of house in miles.
+- User needs to put the mile for house in increasing (1,3,10,30).
 
 ## Results
 - ![alt text](GreedySS.png)
-- [alt text](https://www.youtube.com/watch?v=R-u3jyu1gfg) 
+- [Youtube Video](https://www.youtube.com/watch?v=R-u3jyu1gfg) 
 
