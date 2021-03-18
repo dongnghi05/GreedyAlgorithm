@@ -35,5 +35,5 @@ java minimumBase.java
 
 ## Results
 - ![alt text](GreedySS.png)
-- ![alt text](https://www.youtube.com/watch?v=R-u3jyu1gfg) 
+- [alt text](https://www.youtube.com/watch?v=R-u3jyu1gfg) 
 
