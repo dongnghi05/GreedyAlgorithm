@@ -34,5 +34,6 @@ java minimumBase.java
 - The program will ask for location of house in miles.
 
 ## Results
--![alt text](GreedySS.png)
+- ![alt text](GreedySS.png)
+- ![alt text](https://www.youtube.com/watch?v=R-u3jyu1gfg) 
 
