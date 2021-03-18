@@ -17,6 +17,7 @@ stations as possible.
 - Require IDE that can work with Java
 - Clone the repo
 ```
+gh repo clone dongnghi05/GreedyAlgorithm
 ```
 - Open the project in IDE.
 - Run on terminal
@@ -27,7 +28,7 @@ stations as possible.
 cd GreedyAlgorithm
 cd main
 cd src
-java minimumBase
+java minimumBase.java
 ```
 - The program will ask for number of houses. 
 - The program will ask for location of house in miles.
