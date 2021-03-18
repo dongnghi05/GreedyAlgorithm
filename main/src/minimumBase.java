@@ -17,11 +17,11 @@ public class minimumBase{
         }
 
         int sum = 0;
+        int check = 0;
         for (int i = 0; i < road.size(); i++){
-            sum+= road.get(i);
-            if (sum >= 8){
+            if (road.get(i) - check >= 4){
+                check = road.get(i);
                 base++;
-                sum =0;
             }
         }
         System.out.println("Number of base: " + base);
